@@ -1,0 +1,68 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Credit_Card_Check.xaml",
+      "uniqueId": "523fa35b-fa0c-4af0-8b29-b1121b5c9db7",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "has_insurance": {
+            "type": "string"
+          },
+          "client_category": {
+            "type": "string"
+          },
+          "index": {
+            "type": "integer",
+            "minimum": -2147483648,
+            "maximum": 2147483647
+          },
+          "text_consent": {
+            "type": "string"
+          },
+          "postal_code": {
+            "type": "string"
+          },
+          "country": {
+            "type": "string"
+          },
+          "city": {
+            "type": "string"
+          },
+          "year": {
+            "type": "string"
+          },
+          "day": {
+            "type": "string"
+          },
+          "month": {
+            "type": "string"
+          },
+          "address": {
+            "type": "string"
+          },
+          "phone_num": {
+            "type": "string"
+          },
+          "email": {
+            "type": "string"
+          },
+          "last_name": {
+            "type": "string"
+          },
+          "first_name": {
+            "type": "string"
+          }
+        },
+        "required": []
+      }
+    },
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "55cedc18-75a3-452e-a830-a76d1237d4e7",
+      "type": "process"
+    }
+  ]
+}

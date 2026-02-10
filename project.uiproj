@@ -1,0 +1,6 @@
+{
+  "Name": "Jane_Automation_2",
+  "ProjectType": "Process",
+  "Description": "Checking Credit Card on File",
+  "MainFile": "Credit_Card_Check.xaml"
+}

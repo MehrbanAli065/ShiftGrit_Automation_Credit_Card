@@ -1,0 +1,66 @@
+{
+  "name": "Jane_Automation_2",
+  "projectId": "f786f0f4-c83d-4c64-94ba-f79063ed50f2",
+  "description": "Checking Credit Card on File",
+  "main": "Credit_Card_Check.xaml",
+  "dependencies": {
+    "UiPath.GSuite.Activities": "[3.0.10]",
+    "UiPath.System.Activities": "[25.10.3]",
+    "UiPath.UIAutomation.Activities": "[25.10.21]",
+    "UiPath.WebAPI.Activities": "[2.3.2]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "26.0.182.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "55cedc18-75a3-452e-a830-a76d1237d4e7",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Credit_Card_Check.xaml",
+      "uniqueId": "523fa35b-fa0c-4af0-8b29-b1121b5c9db7",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
