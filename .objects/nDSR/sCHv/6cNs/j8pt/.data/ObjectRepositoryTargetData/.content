@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HY306UN5LUq3CvCfzx4uIA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shiftgritab.janeapp.com/admin" CVScreenId="24c0fe89-127a-44f5-9eb1-8ec269a84fb2" DesignTimeRectangle="365, 520, 720, 34" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl name='email' tag='INPUT' type='text' value='*' /&gt;" Guid="a8e57ed2-4882-4d44-a9ab-be8ab0f4c318" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='jane' title='Edit - Client #* - ShiftGrit - Jane' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ce3865f438c01b5ee0ddbb51f7c08aed.png" xmlns="">0vWbFlYS9rUWs3nibeghDzw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Check Credit Card on Client Profile",
+  "Type": "Screen",
+  "Id": "6cNs0gx00kKEjtQ0BCCEfA",
+  "Reference": "UmhWrFQxEE6SgtXx2UKA-w/6cNs0gx00kKEjtQ0BCCEfA",
+  "ParentRef": "UmhWrFQxEE6SgtXx2UKA-w/sCHvCU5DbkWUS-BCCA5Ryw",
+  "Created": "2026-05-15T07:05:02.7599464Z",
+  "Updated": "2026-05-15T07:05:02.7599464Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
